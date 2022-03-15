@@ -19,7 +19,7 @@ int main(void)
 				putchar(' ');
 				putchar((j / 10) + 48);
 				putchar((j % 10) + 48);
-				if (1 != 98 || j !=99)
+				if (1 != 98 || j != 99)
 				{
 					putchar(',');
 					putchar(' ');
@@ -28,5 +28,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return (0);
+	return (0)i;
 }
