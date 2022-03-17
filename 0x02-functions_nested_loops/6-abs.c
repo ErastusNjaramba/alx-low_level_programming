@@ -2,7 +2,7 @@
 
 /**
  * _abs - Check main
- * #x: An integer input
+ * @x: An integer input
  * Description: This function returns absolute value of a number
  * Return: Absolute value of number x
  */
